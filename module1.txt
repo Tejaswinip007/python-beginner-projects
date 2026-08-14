@@ -1,0 +1,2 @@
+Module 1 - Library Management System
+This module contains the basic library management functionality.
