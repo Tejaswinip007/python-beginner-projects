@@ -1,2 +1,5 @@
 Module 1 - Library Management System
 This module contains the basic library management functionality.
+
+EX20 - Version Control
+Module 1 contribution for the team project.
