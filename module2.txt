@@ -1,0 +1,2 @@
+Module 2 - Library Management System
+This module contains additional project functionality.
